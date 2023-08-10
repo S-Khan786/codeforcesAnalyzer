@@ -8,7 +8,7 @@ const Navbar = () => {
             {/* 🕵️ */}
             <h1 className="text-2xl mt-2 font-semibold">CF Analyser</h1>
             <button className='bg-themeYellow-400 px-2 py-2 mr-4 rounded-full text-lg'>
-                <a href="https://github.com/Wxld/CodeforcesAnalyzer" className='mx-2 flex items-center'>
+                <a href="https://github.com/S-Khan786/codeforcesAnalyzer" className='mx-2 flex items-center'>
                     <i className="ri-github-fill text-xl mr-1"></i>Github
                 </a>
             </button>
